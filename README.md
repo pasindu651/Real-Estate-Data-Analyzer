@@ -13,13 +13,13 @@ A streamlit app built with Python that scrapes real estate data of a given locat
 
 
 ## Tools Used
-    The following tools were used in the development of this application:
-    \n🚩Streamlit was used for the front-end.
-    \n🚩Selenium was used to handle dynamic web elements and passed to a Beautiful Soup object.
-    \n🚩Beautiful soup was used to scrape listing information from Selenium HTML.
-    \n🚩Pandas was used for data analysis and manipulation.
-    \n🚩Plotly, in combination with Streamlit was used for graphing and interactive data visualization.
-    \n🚩Sklearn was used for linear regression and data testing and training.
+The following tools were used in the development of this application:
+\n🚩Streamlit was used for the front-end.
+\n🚩Selenium was used to handle dynamic web elements and passed to a Beautiful Soup object.
+\n🚩Beautiful soup was used to scrape listing information from Selenium HTML.
+\n🚩Pandas was used for data analysis and manipulation.
+\n🚩Plotly, in combination with Streamlit was used for graphing and interactive data visualization.
+\n🚩Sklearn was used for linear regression and data testing and training.
 <img alt="Diagram of process" width="730" src="https://i.ibb.co/88LBcZr/web-scraping-about.png">
 
 ## Prerequisites
