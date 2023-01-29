@@ -1,0 +1,8 @@
+streamlit
+pandas
+requests
+BeautifulSoup4
+selenium == 4.0
+streamlit-lottie
+scikit-learn
+plotly_express

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bba71754-2200-4c11-95d2-9c6db59cdc69" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/RealEstate App.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_️Home.py" afterPathEscaped="$PROJECT_DIR$/1_🏘️Home.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/2_ listings.py" afterPathEscaped="$PROJECT_DIR$/pages/2_🔎 listings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/3_Data Analysis.py" afterPathEscaped="$PROJECT_DIR$/pages/3_📈Data Analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2JsFjvpChMqWqYRNne91RH9udoR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\RealEstate App" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="practice.txt" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="RealEstate App" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\RealEstate App\practice.txt" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bba71754-2200-4c11-95d2-9c6db59cdc69" name="Changes" comment="" />
+      <created>1672859024952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672859024952</updated>
+      <workItem from="1673228706463" duration="41000" />
+      <workItem from="1673228764214" duration="316000" />
+      <workItem from="1673229431535" duration="6565000" />
+      <workItem from="1673353147240" duration="2024000" />
+      <workItem from="1673645769854" duration="68000" />
+      <workItem from="1673712399711" duration="30844000" />
+      <workItem from="1673798782691" duration="1896000" />
+      <workItem from="1673812344726" duration="1856000" />
+      <workItem from="1673822421043" duration="4654000" />
+      <workItem from="1673828505968" duration="5483000" />
+      <workItem from="1673836622769" duration="721000" />
+      <workItem from="1674009646820" duration="3257000" />
+      <workItem from="1674098314617" duration="3382000" />
+      <workItem from="1674262979901" duration="7211000" />
+      <workItem from="1674328896231" duration="1078000" />
+      <workItem from="1674330598692" duration="15493000" />
+      <workItem from="1674416541533" duration="5192000" />
+      <workItem from="1674423328679" duration="232000" />
+      <workItem from="1674423766198" duration="885000" />
+      <workItem from="1674778337568" duration="5718000" />
+      <workItem from="1674869557729" duration="7341000" />
+      <workItem from="1674882297981" duration="2720000" />
+      <workItem from="1674936849748" duration="13498000" />
+      <workItem from="1674952137274" duration="762000" />
+      <workItem from="1674953209142" duration="5407000" />
+      <workItem from="1674970316611" duration="4184000" />
+      <workItem from="1675005791935" duration="5992000" />
+      <workItem from="1675013185271" duration="810000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
