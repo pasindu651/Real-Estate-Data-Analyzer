@@ -17,7 +17,7 @@ st.markdown(
     \n🚩**Part 4:** Graph specific information fields as a scatter plot sorted by different property types.
     """
 )
-st.image("https://i.ibb.co/88LBcZr/web-scraping-about.png")
+st.image("https://i.ibb.co/z6TssC2/web-scraping-about.png")
 
 st.header("Tools Used")
 st.markdown(
