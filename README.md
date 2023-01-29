@@ -19,7 +19,7 @@ A streamlit app built with Python that scrapes real estate data of a given locat
 🚩Pandas was used for data analysis and manipulation.<br />
 🚩Plotly, in combination with Streamlit was used for graphing and interactive data visualization.<br />
 🚩Sklearn was used for linear regression and data testing and training.<br />
-<img alt="Diagram of process" width="730" src="https://i.ibb.co/88LBcZr/web-scraping-about.png">
+<img alt="Diagram of process" width="730" src="https://i.ibb.co/z6TssC2/web-scraping-about.png">
 
 ## Prerequisites
 ```$ pip install requirements.txt```
