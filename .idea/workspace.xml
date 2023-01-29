@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bba71754-2200-4c11-95d2-9c6db59cdc69" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/RealEstate App.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_️Home.py" afterPathEscaped="$PROJECT_DIR$/1_🏘️Home.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drivers/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/2_ listings.py" afterPathEscaped="$PROJECT_DIR$/pages/2_🔎 listings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/3_Data Analysis.py" afterPathEscaped="$PROJECT_DIR$/pages/3_📈Data Analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +110,7 @@
       <workItem from="1674953209142" duration="5407000" />
       <workItem from="1674970316611" duration="4184000" />
       <workItem from="1675005791935" duration="5992000" />
-      <workItem from="1675013185271" duration="810000" />
+      <workItem from="1675013185271" duration="1396000" />
     </task>
     <servers />
   </component>
