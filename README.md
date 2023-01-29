@@ -3,12 +3,12 @@ A streamlit app built with Python that scrapes real estate data of a given locat
 
 <figure>
 <img src="https://i.ibb.co/WPsPm4R/newplot-2.png" alt="Sample output graph" style="width:730">
-<figcaption align = "center"><b>Scatter plot output for **area vs price** of **land** in **Toronto, Ontario**.</b></figcaption>
+  <figcaption align = "center"><b>Scatter plot output for <b>area vs price</b> of <b>land</b> in <b>Toronto, Ontario</b>.</figcaption>
 </figure>
 
 <figure>
 <img src="https://i.ibb.co/z5pxfQh/newplot.png" alt="Sample output linear regression" style="width:730">
-<figcaption align = "center"><b>Linear regression output for **houses** in **Toronto, Ontario**.</b></figcaption>
+  <figcaption align = "center">Linear regression output for <b>houses</b> in <b>Toronto, Ontario</b>.</figcaption>
 </figure>
 
 
