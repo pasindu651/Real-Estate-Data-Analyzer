@@ -13,7 +13,6 @@ A streamlit app built with Python that scrapes real estate data of a given locat
 
 
 ## Tools Used
-The following tools were used in the development of this application:
 🚩Streamlit was used for the front-end.<br />
 🚩Selenium was used to handle dynamic web elements and passed to a Beautiful Soup object.<br />
 🚩Beautiful soup was used to scrape listing information from Selenium HTML.<br />
