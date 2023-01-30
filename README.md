@@ -23,6 +23,7 @@ A streamlit app built with Python that scrapes real estate data of a given locat
 
 ## Prerequisites
 ```$ pip install requirements.txt```<br>
+To run locally:
 ```$ streamlit run 1_🏘️Home.py```
 
 
