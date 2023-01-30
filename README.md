@@ -22,7 +22,7 @@ A streamlit app built with Python that scrapes real estate data of a given locat
 <img alt="Diagram of process" width="730" src="https://i.ibb.co/z6TssC2/web-scraping-about.png">
 
 ## Prerequisites
-```$ pip install requirements.txt```
+```$ pip install requirements.txt```<br>
 ```$ streamlit run 1_🏘️Home.py```
 
 
