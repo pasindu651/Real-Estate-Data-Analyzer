@@ -1,17 +1,6 @@
 # Real Estate Data Analyzer + Scraper
 A streamlit app built with Python that scrapes real estate data of a given location and graphs the data using a linear regression model. 
 
-<figure>
-<img src="https://i.ibb.co/WPsPm4R/newplot-2.png" alt="Sample output graph" style="width:730">
-  <figcaption align = "center"><b>Scatter plot output for <b>area vs price</b> of <b>land</b> in <b>Toronto, Ontario</b>.</figcaption>
-</figure>
-
-<figure>
-<img src="https://i.ibb.co/z5pxfQh/newplot.png" alt="Sample output linear regression" style="width:730">
-  <figcaption align = "center">Linear regression output for <b>houses</b> in <b>Toronto, Ontario</b>.</figcaption>
-</figure>
-
-
 ## Tools Used
 🚩Streamlit was used for the front-end.<br />
 🚩Selenium was used to handle dynamic web elements and passed to a Beautiful Soup object.<br />
@@ -25,6 +14,18 @@ A streamlit app built with Python that scrapes real estate data of a given locat
 ```$ pip install requirements.txt```<br>
 To run locally:
 ```$ streamlit run 1_🏘️Home.py```
+
+<figure>
+<img src="https://i.ibb.co/WPsPm4R/newplot-2.png" alt="Sample output graph" style="width:730">
+  <figcaption align = "center"><b>Scatter plot output for <b>area vs price</b> of <b>land</b> in <b>Toronto, Ontario</b>.</figcaption>
+</figure>
+
+<figure>
+<img src="https://i.ibb.co/z5pxfQh/newplot.png" alt="Sample output linear regression" style="width:730">
+  <figcaption align = "center">Linear regression output for <b>houses</b> in <b>Toronto, Ontario</b>.</figcaption>
+</figure>
+
+
 
 
 
