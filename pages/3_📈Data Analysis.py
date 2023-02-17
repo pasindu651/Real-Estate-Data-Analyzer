@@ -6,7 +6,7 @@ from sklearn.linear_model import LinearRegression
 
 #Page configurations
 st.set_page_config(
-    page_title="Multipage App",
+    page_title="Data Analysis",
     page_icon="📈",
 )
 
