@@ -60,10 +60,10 @@ with col2: #Display graph for specific information field
     st.subheader(f'Scatter plot of {str(user_x)} for Properties')
     plot_specific(df, user_x, 'Price', )
 
-generate_csv = st.button('Generate CSV') #Button to generate csv file
-
-if generate_csv: #If button is pressed, export dataframe as csv
-    df.to_csv('Housing Prices', encoding='utf-8', index=False)
+generate_csv = df.to_csv('Housing Prices', encoding='utf-8', index=False)
+st.download_button("Export as CSV", #Button to generate csv file
+                   generate_csv,
+                   mime='text/csv')
 
 
 
