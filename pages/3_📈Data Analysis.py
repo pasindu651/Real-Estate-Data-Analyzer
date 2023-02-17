@@ -12,7 +12,7 @@ st.set_page_config(
 
 def plot_linear_regression(df, x, y, type):
     """
-    Create linear regression model and graph for each property type
+    Create linear regression model and graph area, beds, and baths against price for all properties
     :param df:
     :param x:
     :param y:
