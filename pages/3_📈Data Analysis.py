@@ -51,8 +51,7 @@ generate_csv = df.to_csv(index=False).encode('utf-8')
 st.download_button("Export as CSV", #Button to generate csv file
                    generate_csv,
                    file_name="properties_analysis.csv",
-                   "text/csv",
-                   mime="text/csv”,
+                   mime= "text/csv”,
 )
 
 
