@@ -47,6 +47,14 @@ st.title("Data Analysis")
 df = st.session_state['df'] #Access dataframe from session state
 st.dataframe(df) #Display dataframe
 
+generate_csv = df.to_csv(index=False).encode('utf-8')
+st.download_button("Export as CSV", #Button to generate csv file
+                   generate_csv,
+                   file_name="properties_analysis.csv",
+                   "text/csv",
+                   mime="text/csv”,
+)
+
 
 user_x = st.sidebar.selectbox('X Variable', ['Area', 'Beds', 'Baths']) #Selection box for user to select x variable
 user_type = st.sidebar.selectbox('Type', ['Land/Lot', 'House', 'Retail', 'Land/Lot', 'Townhouse']) #Selection box for user to select property type
@@ -60,13 +68,6 @@ with col2: #Display graph for specific information field
     st.subheader(f'Scatter plot of {str(user_x)} for Properties')
     plot_specific(df, user_x, 'Price', )
 
-generate_csv = df.to_csv('Housing Prices', encoding='utf-8', index=False)
-st.download_button("Export as CSV", #Button to generate csv file
-                   generate_csv,
-                   "benchmark-tools.csv",
-                   "text/csv",
-                   key="download-tools-csv",
-)
 
 
 
