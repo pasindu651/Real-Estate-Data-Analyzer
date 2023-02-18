@@ -63,7 +63,10 @@ with col2: #Display graph for specific information field
 generate_csv = df.to_csv('Housing Prices', encoding='utf-8', index=False)
 st.download_button("Export as CSV", #Button to generate csv file
                    generate_csv,
-                   mime='text/csv')
+                   "benchmark-tools.csv",
+                   "text/csv",
+                   key="download-tools-csv",
+)
 
 
 
