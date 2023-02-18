@@ -50,9 +50,8 @@ st.dataframe(df) #Display dataframe
 generate_csv = df.to_csv(index=False).encode('utf-8')
 st.download_button("Export as CSV", #Button to generate csv file
                    generate_csv,
-                   file_name="properties_analysis.csv",
-                   mime= "text/csv”,
-)
+                   file_name='properties_analysis.csv',
+                   mime= 'text/csv')
 
 
 user_x = st.sidebar.selectbox('X Variable', ['Area', 'Beds', 'Baths']) #Selection box for user to select x variable
