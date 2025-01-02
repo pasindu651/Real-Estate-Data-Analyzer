@@ -2,7 +2,6 @@
 A streamlit app built with Python that scrapes real estate data of a given location and graphs the data using a linear regression model. 
 
 ## Demo
-![Uploading demo.gif…]()
 
 ## Tools Used
 🚩Streamlit was used for the front-end.<br />
