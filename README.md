@@ -1,6 +1,9 @@
 # Real Estate Data Analyzer + Scraper
 A streamlit app built with Python that scrapes real estate data of a given location and graphs the data using a linear regression model. 
 
+## Demo
+![Uploading demo.gif…]()
+
 ## Tools Used
 🚩Streamlit was used for the front-end.<br />
 🚩Selenium was used to handle dynamic web elements and passed to a Beautiful Soup object.<br />
